@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { Field, reduxForm, formValueSelector } from 'redux-form'
-import { RadioButton } from 'material-ui/RadioButton'
-import MenuItem from 'material-ui/MenuItem'
-import { AutoComplete as MUIAutoComplete } from 'material-ui'
+import { RadioButton } from 'old-material-uiui/RadioButton'
+import MenuItem from 'old-material-uiui/MenuItem'
+import { AutoComplete as MUIAutoComplete } from 'old-material-uiui'
 import {
   AutoComplete,
   Checkbox,
@@ -14,7 +14,7 @@ import {
   Slider,
   TextField,
   Toggle
-} from 'redux-form-material-ui'
+} from 'redux-form-old-material-uiui'
 
 // validation functions
 const required = value => (value == null ? 'Required' : undefined)

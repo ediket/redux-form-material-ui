@@ -1,4 +1,4 @@
-import Checkbox from 'material-ui/Checkbox'
+import Checkbox from 'old-material-ui/Checkbox'
 import createComponent from './createComponent'
 
 export default createComponent(Checkbox, ({

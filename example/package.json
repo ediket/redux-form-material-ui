@@ -13,7 +13,7 @@
     "html-loader": "^0.4.5",
     "json-loader": "^0.5.4",
     "markdown-loader": "^2.0.0",
-    "material-ui": "^0.17.3",
+    "old-material-ui": "git+ssh://git@github.com/ifndefdeadmau5/material-ui.git#fe92b63",
     "raw-loader": "^0.5.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",

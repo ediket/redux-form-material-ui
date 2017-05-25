@@ -1,4 +1,4 @@
-import Slider from 'material-ui/Slider'
+import Slider from 'old-material-ui/Slider'
 import createComponent from './createComponent'
 import mapError from './mapError'
 

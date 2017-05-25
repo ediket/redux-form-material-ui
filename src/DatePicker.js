@@ -1,4 +1,4 @@
-import DatePicker from 'material-ui/DatePicker'
+import DatePicker from 'old-material-ui/DatePicker'
 import createComponent from './createComponent'
 import mapError from './mapError'
 
